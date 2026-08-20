@@ -1,0 +1,6 @@
+{
+  "name": "Chromebook Drive Connector",
+  "description": "Easily connect and manage Google Drive files, folders, backups, and storage on your Chromebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
